@@ -10,8 +10,6 @@ Step 1: Open StreamLine and browse: The user starts inside StreamLine looking fo
 Step 2: Leave StreamLine to discover content elsewhere: Instead of continuing to browse, the user leaves the platform and opens external discovery tools such as Letterboxd, IMDb, Rotten Tomatoes or MUBI.
 Step 3: Build a shortlist externally: The user creates a mental or written list of films discovered through these platforms.
 Step 4: Return to StreamLine: Only after selecting a film externally does the user return to StreamLine to check whether the title is available.
-- **Core frustration, the exact moment the process feels most “broken”:** 1. Declining relevance as a discovery destination: Every time a cinephile opens Letterboxd, IMDb, Rotten Tomatoes, MUBI, or Criterion Channel before opening StreamLine, those platforms become the trusted discovery layer.
-
-2. Increasing churn: Once users repeatedly discover content on specialized platforms, they begin questioning why they need StreamLine for discovery at all.
+- **Core frustration, the exact moment the process feels most “broken”:** 1. Declining relevance as a discovery destination: Every time a cinephile opens Letterboxd, IMDb, Rotten Tomatoes, MUBI, or Criterion Channel before opening StreamLine, those platforms become the trusted discovery layer.2. Increasing churn: Once users repeatedly discover content on specialized platforms, they begin questioning why they need StreamLine for discovery at all.
 - **The evidence, a specific quote or behavior from the research that proves this:** "I cancelled last year. It became a warehouse. Volume went up, quality of my evenings went down. A competitor emails me two hand-picked films a week and I watch both."
 - **Your journey map, a shareable link, or the map file you committed (e.g. journey-map.html):** https://drive.google.com/file/d/1HguXSpsOEzvrQnIM_C3avRpMVGFSPC_1/view?usp=sharing
