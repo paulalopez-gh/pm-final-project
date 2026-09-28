@@ -42,4 +42,4 @@
 - **A10 Offline Download (Spotlight)**, Improves consumption convenience, not discovery confidence.
 
 ## Wireframes / prototype: 
-[_[screenshot or link to your prototype]_](https://drive.google.com/file/d/1mK3gSQs1XfBOPnD5MofTrViQn1r5KhE-/view?usp=drive_link)
+[_[Link to prototype]_](https://drive.google.com/file/d/1mK3gSQs1XfBOPnD5MofTrViQn1r5KhE-/view?usp=drive_link)
