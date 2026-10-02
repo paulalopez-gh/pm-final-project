@@ -1,58 +1,245 @@
 # My Product: Product Management Final Project
 
-> My final project for Product School's **Product Management** certification. One product concept, **StreamLine Spotlight** or **RouteLogic Velocity** (or my own initiative), taken from a raw problem to a launch-ready concept across six in-class labs, no homework required.
+# StreamLine Spotlight: Why You'll Love This
 
-This is a **template repo**. Click **Use this template → Create a new repository**, name it something like `pm-final-project`, and fill in one folder per module as you go. This is an **individual project**: your work is yours alone.
+> Stop guessing. Start watching. Discover great films through trusted explanations and curated recommendations.
 
----
+**Paula López · PM Cohort · Sep 2026**
 
-## Deliverables at a glance
+[View repository](https://github.com/paulalopez-gh/pm-final-project) · [View prototype](https://lovable.dev/preview/Jo5Kp6PXMYt8PJRlx6xbpzowt02rPynu)
 
-| # | Deliverable | Module | Status | File |
-|---|---|---|---|---|
-| 1 | **Strategic Discovery Map** (groundwork) | M1 | ☐ | `01-product-thinking/strategic-map.md` |
-| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☐ | `01-product-thinking/problem-hook.md` |
-| 2 | **AI Synthesis** — Product Health & Insights Summary | M2 | ☐ | `02-discovery/ai-synthesis.md` |
-| 2 | **Competitive Analysis & Journey Map** | M2 | ☐ | `02-discovery/competitive-and-journey.md` |
-| 3 | **Hypothesis & Success Metrics** | M3 | ☐ | `03-analytics/hypothesis-and-metrics.md` |
-| 4 | **Roadmap, PRD & Prototype** | M4 | ☐ | `04-roadmap/roadmap-prd-prototype.md` |
-| 4 | **PRD & Prototype Sprint** | M4 | ☐ | `04-roadmap/prd-and-prototype.md` |
-| 5 | **Experimentation Plan** | M5 | ☐ | `05-experimentation/experimentation-plan.md` |
-| 6 | **GTM Strategy & Success Dashboard** | M6 | ☐ | `06-launch/gtm-and-dashboard.md` |
-| 6 | **Individual Insights** (reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
-| ★ | **Final Project Presentation** (the deck you submit) | M6 | ☐ | `06-launch/final-presentation.md` |
+\---
 
-## The project in one sentence
+## Slide 5 · Strategy
 
-_What is your product concept, who is it for, and what's the single bet you're making?_
+### Problem Hook \& Value Proposition
 
-___
+**Scenario:** StreamLine Spotlight (B2C)
 
-## How to submit
+#### Strategic crisis
 
-- Turn the deliverable files into your final deck: run the **Final Presentation Generator** (linked from the Module 6 deck) to build a single-file HTML deck, or paste your files into an AI tool like **Gamma** or **Canva** (see `06-launch/final-presentation.md`).
-- Commit the deck to this repo, then submit your **repo link** and your **presentation deck** to the learning platform within **7 days** of your cohort ending.
+If we do nothing for 12 months the platform will become into a commodity streaming platform with a huge catalog but little relevance as a discovery space. As cinephile viewers increasingly turn to specialized services for recommendations and curated experiences, StreamLine will face rising churn, declining loyalty among high-value subscribers, and a weakening competitive position despite continuing to grow its content library.
 
-## Repo structure
+#### Moment of misery
 
-```
-pm-final-project/
-├── README.md                              ← this dashboard
-├── 01-product-thinking/
-│   ├── strategic-map.md                   ← M1 lab 1: strategic discovery map
-│   └── problem-hook.md                    ← M1 lab 2: problem hook + value prop ★ Deliverable 1
-├── 02-discovery/
-│   ├── ai-synthesis.md                    ← M2 lab 1: product health & insights summary
-│   └── competitive-and-journey.md         ← M2 lab 2: workaround + journey map ★ Deliverable 2
-├── 03-analytics/
-│   └── hypothesis-and-metrics.md          ← M3: hypothesis + success metrics ★ Deliverable 3
-├── 04-roadmap/
-│   ├── roadmap-prd-prototype.md           ← M4 lab 1: roadmap + prioritization ★ Deliverable 4
-│   └── prd-and-prototype.md               ← M4 lab 2: PRD + prototype
-├── 05-experimentation/
-│   └── experimentation-plan.md            ← M5: experimentation plan          ★ Deliverable 5
-└── 06-launch/
-    ├── gtm-and-dashboard.md               ← M6: GTM plan + success dashboard  ★ Deliverable 6
-    ├── individual-insights.md             ← M6: friction, learnings, aha
-    └── final-presentation.md              ← M6: how to build & submit the deck ★ Final submission
+The user is currently forced to leave StreamLine and use platforms such as Letterboxd, IMDb, or Rotten Tomatoes to discover quality films, then return to StreamLine only to check whether those titles are available. In many cases, they subscribe to specialized services like MUBI or Criterion Channel because they trust those platforms more than StreamLine to help them discover meaningful content.
+
+#### Problem hook
+
+We must solve increasing churn and declining relevance as a content discovery destination by addressing the needs of cinephiles who are forced to leave StreamLine to find curated recommendations and meaningful film discovery experiences.
+
+#### Value proposition
+
+For Cinephiles and discovery-driven viewers who value quality, curation, and expert recommendations over catalog size., we will Provide a premium curated cinema experience inside StreamLine through expert collections, human editorial selections, hard-to-discover films, or contextual recommendations that help users confidently discover great content. because Because subscriber churn is increasing, specialized competitors are gaining credibility as discovery leaders, and StreamLine risks losing its most engaged viewers if it cannot reestablish itself as a trusted destination for film discovery..
+
+#### Data-backed hypothesis
+
+> Based on Wanderers, the segment that most closely reflects users struggling to discover meaningful content, have the lowest LTV ($8.40), the fewest sessions (1.1/week), and consume mostly trending content (61%) rather than curated experiences., we believe that solving Reduce decision paralysis caused by repetitive, trend-heavy recommendations that force users to seek trusted film discovery elsewhere.
+
+* **Discovery-to-Play:** +15%
+* **Month 1 retention:** +10 pts
+* **Decision window:** 90 days
+
+#### Cold-read self-review
+
+* **Strongest part:** When users go to Letterboxd, IMDb, MUBI, or Criterion Channel for discovery, StreamLine loses engagement and strategic relevance. This demonstrates a clear and measurable threat rather than a minor product inconvenience.
+* **Weakest part:** This project is just an hypothesis. The current evidence assumes that curated experiences will meaningfully reduce churn. While the relationship is plausible, the case does not explicitly prove causation, so the business outcome should be validated through experimentation and launch metrics.
+
+\---
+
+## Slide 6 · Research
+
+### Competitive analysis / workaround
+
+* **Role, who are you solving for?** A passionate film enthusiast who actively seeks high-quality, diverse, and meaningful cinema experiences beyond mainstream recommendations.
+* **Goal:** Discover exceptional films efficiently through trusted guidance, curation, and recommendations that expand their tastes.
+* **Friction:** After spending a long time browsing StreamLine, they keep seeing similar franchise-adjacent recommendations and cannot confidently identify a worthwhile film to watch. Instead of choosing content, they leave the platform and rely on Letterboxd, IMDb, Rotten Tomatoes, or specialized services where they trust the curation more.
+* **External tools:**
+
+  * Letterboxd for curated lists and community recommendations.
+  * IMDb for ratings, reviews, and discovery.
+  * Rotten Tomatoes for critic consensus and quality validation.
+  * MUBI or Criterion Channel to explore expert-curated film collections and editorial selections.
+
+### Journey map
+
+1. **Open StreamLine and browse:** The user starts inside StreamLine looking for something new to watch.
+2. **Leave StreamLine to discover content elsewhere:** Instead of continuing to browse, the user leaves the platform and opens external discovery tools such as Letterboxd, IMDb, Rotten Tomatoes or MUBI.
+3. **Build a shortlist externally:** The user creates a mental or written list of films discovered through these platforms.
+4. **Return to StreamLine:** Only after selecting a film externally does the user return to StreamLine to check whether the title is available.
+
+> \*\*Moment of misery:\*\* Every time a cinephile opens Letterboxd, IMDb, Rotten Tomatoes, MUBI, or Criterion Channel before opening StreamLine, those platforms become the trusted discovery layer. Once users repeatedly discover content on specialized platforms, they begin questioning why they need StreamLine for discovery at all.
+
+> “I cancelled last year. It became a warehouse. Volume went up, quality of my evenings went down. A competitor emails me two hand-picked films a week and I watch both.”
+
+[Open journey map](https://drive.google.com/file/d/1HguXSpsOEzvrQnIM_C3avRpMVGFSPC_1/view?usp=sharing)
+
+\---
+
+## Slide 7 · Blueprint
+
+**Team:** 2 engineers + 1 designer
+
+### Strategic anchors
+
+* **Persona:** A discovery-driven viewer overwhelmed by StreamLine's trend-heavy catalog who leaves the platform to seek trusted film recommendations elsewhere before deciding what to watch.
+* **Primary metric:** Increase the percentage of discovery sessions that result in a title being played, indicating that users can confidently find something worth watching without leaving StreamLine.
+* **Moment of misery:** Cannot confidently choose a meaningful film because StreamLine's recommendations feel repetitive and untrustworthy.
+* **Guardrail:** Maintain or improve the 30+ minute session rate among non-Spotlight users while increasing discovery-to-play conversion for Spotlight users.
+
+### NOW · 3-week sprint
+
+* **A1 Spotlight Curated Rail:** Directly addresses algorithmic noise with human curation and can immediately improve discovery-to-play conversion.
+* **A2 'Why You'll Love This' Label:** Reduces decision paralysis by explaining recommendations and building trust at the moment of choice.
+* **A3 Hidden Gem Badge:** Helps users discover meaningful non-trending titles and reinforces Spotlight's curated identity.
+
+### NEXT · following 1-2 sprints
+
+* **A4 Mood-Based Entry Point:** Supports intent-based discovery but requires additional UX and tagging work to be effective.
+* **A5 Personalized Spotlight Queue:** High strategic value but too large for a 2-engineer team in a 3-week sprint.
+* **A9 Advanced Filter Engine:** Valuable for dedicated cinephiles but serves exploration power users more than the broader friction.
+
+### LATER · backlog
+
+* **A6 Spotlight Digest Email:** May drive return visits but does not solve the core in-session discovery friction.
+
+### Cut list
+
+* **A7 Curator Profiles:** Can increase trust in curation over time but doesn't immediately help users choose a film.
+* **A8 Watch Party (Spotlight):** Social viewing does not address discovery trust or choice overload.
+* **A10 Offline Download (Spotlight):** Improves consumption convenience, not discovery confidence.
+
+### PRD Must-Haves
+
+1. Display a concise "Why You'll Love This" explanation on Spotlight titles.
+2. Trigger on Spotlight titles only.
+3. Show recommendation rationale before playback decision.
+4. Generate explanations from a small set of predefined reasons.
+5. Event tracking.
+
+[View prototype](https://lovable.dev/preview/Jo5Kp6PXMYt8PJRlx6xbpzowt02rPynu)
+
+\---
+
+## Slide 8 · Validation
+
+### Hypothesis
+
+> I believe that “Why You’ll Love This” for discovery-driven Wanderers will reduce decision paralysis and turn external discoverers into loyal Spotlight users, as measured by a +2pt increase in Discovery-to-Play Conversion (34%→36%) within 14 days, while maintaining the 30+ Minute Session Rate.
+
+### Control vs variant
+
+#### Control A · Current experience
+
+Repetitive, trend-heavy recommendations that force users to seek trusted film discovery elsewhere.
+
+#### Variant B · Single change
+
+1. **Spotlight Entry:** Dedicated Spotlight landing page; Curated Rail; Hidden Gem Badges; Spotlight branding and editor highlights.
+2. **Film Discovery Detail:** Film card/detail view; "Why You'll Love This" explanation; Editorial recommendation note; Hidden Gem indicator; Play CTA.
+3. **Watching Confirmation:** Playback started confirmation; Success message; Related Spotlight recommendations; "Continue Exploring Spotlight" CTA.
+
+### Experiment design
+
+* **Sample size per arm:** 4,144
+* **Traffic split:** 50/50
+* **Duration:** 14 days
+* **Significance:** p < 0.05
+* **Primary metric:** Discovery-to-Play Conversion Rate
+* **Baseline and MDE:** 34% → 36%, +2 pts
+* **Guardrail:** 30+ Minute Session Rate = 11%. Maintain or improve; do not drop by more than 2 pts from baseline.
+* **Isolation check:** All else identical between arms: app version, recommendation engine, notifications, onboarding.
+
+### Shipping criteria
+
+* **SHIP:** Discovery-to-Play Conversion increases by ≥ +2 pts, from 34% to 36%, at p < 0.05, while the 30+ Minute Session Rate does not drop by more than 2 pts from baseline.
+* **ITERATE:** Direction is positive but lift is below the MDE.
+* **KILL:** The primary metric shows no improvement or moves negatively.
+
+The read date is fixed at the end of 14 days, covering at least two weekly viewing cycles, with no results reviewed before this date.
+
+\---
+
+## Slide 9 · Launch
+
+### GTM strategy
+
+* **Feature:** “Why You’ll Love This” Label
+* **Experiment result:** Shipped
+* **Primary goal:** Conversion
+* **Launch tier:** M, targeted
+* **Audience:** Dedicated Cinephile and Discovery-Driven Subscriber
+
+“Why You'll Love This” is designed to change a specific user behavior, not create awareness. The core problem is that discovery-driven viewers browse but fail to confidently choose a film, leading them to leave StreamLine for external recommendation sources.
+
+### Channels
+
+1. **Owned · In-App Homepage Banner + Spotlight Entry Promotion**
+
+   * “Stop scrolling. Start watching. See why each film was selected for you.”
+2. **Owned · Spotlight Onboarding Tooltip / Product Walkthrough**
+
+   * “Every Spotlight recommendation comes with a clear explanation, so you know why it's worth your time.”
+3. **Earned · Film \& Cinema Communities**
+
+   * Letterboxd, Reddit r/movies, and film newsletters.
+   * “A curated shelf of films with the reason each one was chosen, inside your streaming service.”
+
+### Launch assets
+
+1. Homepage Spotlight Banner: “Stop scrolling. Start watching.”
+2. In-App Onboarding Tooltip.
+3. Feature Demo GIF, 30 sec.
+4. FAQ \& Support Article: “How recommendations in Spotlight work.”
+5. Launch Dashboard.
+
+### Execution timeline
+
+* **Phase 1 · Beta, Week 1:** Finalize prototype and tracking; internal testing and QA; create onboarding tooltip and support documentation.
+* **Phase 2 · Launch, Week 2:** Roll out A/B test with a 50/50 split; homepage Spotlight promotion goes live; in-app onboarding and launch messaging released.
+* **Phase 3 · Post-Launch, Weeks 3–4+:** Monitor Discovery-to-Play Conversion and guardrail metrics; collect qualitative feedback; evaluate results against the +2 pt MDE and guardrail boundary; decide whether to Scale, Iterate, or Stop.
+
+### Success dashboard
+
+* **Discovery-to-Play Conversion Rate:** +2 pts MDE, from 34% → 36%.
+* **Spotlight Play Rate:** Percentage of Spotlight visitors who start playback.
+* **Time to First Play:** Reduce time spent browsing before selecting a title.
+
+> \*\*Bad signal:\*\* High Spotlight engagement but no increase in Discovery-to-Play Conversion.
+
+**Most likely post-launch decision:** Iterate if Discovery-to-Play improves but misses the +2 pt MDE.
+
+\---
+
+## Slide 10 · Story
+
+### Friction points
+
+The biggest challenge was narrowing the scope from a broad discovery problem to a single behavior-change feature. Initially, I wanted to improve recommendations, personalization, and curation simultaneously, but the data forced me to focus on one measurable friction: users lacked confidence in choosing a film.
+
+### The Aha! moment
+
+> StreamLine wasn't losing users because it lacked content; it was losing them because it was losing the moment of discovery.
+
+The real competitor wasn't another streaming catalog, it was Letterboxd, IMDb, Rotten Tomatoes, and MUBI, where users were deciding what to watch before returning to StreamLine.
+
+### Key learnings
+
+* **User pain is often a trust problem, not a technology problem.** Users weren't asking for better algorithms; they wanted confidence and guidance.
+* **A clear success metric improves decision-making.** Defining Discovery-to-Play Conversion helped prioritize features and eliminate scope creep.
+* **Not every good idea belongs in an MVP.** Several attractive features, including personalization, curator profiles, and advanced filters, had to be deprioritized because they didn't directly solve the core friction.
+
+### What I would do next
+
+Evaluate results against the +2 pt MDE and guardrail boundary, then decide: Scale, Iterate, or Stop.
+
+\---
+
+# Thank you
+
+## Stop guessing. Start watching.
+
+**StreamLine Spotlight: Why You'll Love This**
+
+**Paula López · PM Cohort · Sep 2026**
 ```
